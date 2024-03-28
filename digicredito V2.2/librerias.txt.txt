@@ -1,0 +1,3 @@
+py -m pip install psycopg2
+py -m pip install python-keycloak
+py -m pip install requests
